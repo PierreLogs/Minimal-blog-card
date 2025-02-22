@@ -38,7 +38,7 @@
 
 ## Overview
 
-![screenshot](./screenshot.png)
+![screenshot](https://github.com/PierreLogs/Minimal-blog-card/blob/main/resources/Cactus.jpg)
 
 <!--
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
@@ -70,5 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Website [your-website.com](https://pierrelogs.github.io/Minimal-blog-card/)
+- GitHub [@your-username](https://github.com/PierreLogs/Minimal-blog-card)
