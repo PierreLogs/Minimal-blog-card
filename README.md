@@ -70,5 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- Website [your-website.com](https://pierrelogs.github.io/Minimal-blog-card/)
-- GitHub [@your-username](https://github.com/PierreLogs/Minimal-blog-card)
+- Website [Minimal-blog-card](https://pierrelogs.github.io/Minimal-blog-card/)
+- GitHub [@PierreLogs](https://github.com/PierreLogs/Minimal-blog-card)
